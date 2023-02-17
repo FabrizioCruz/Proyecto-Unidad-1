@@ -214,7 +214,6 @@ if (empty($_SESSION["administrador"])) {
             data: {
                 labels: ['Noviembre 2022', 'Diciembre 2022', 'Enero 2023', 'Febrero 2023'],
                 datasets: [{
-                    label: 'Nuevos usuarios',
                     data: [50, 100, 150, 200],
                     backgroundColor: [
                         '#3fba5b',
